@@ -5,6 +5,7 @@
 
 Aplicação abaixo recebe 10 números, armazena em um vetor 
 e ordene esses 10 números crescente utilizando for
+Nome: Ana Luiza de Assis, Arthur Henrique Pereira Martins, João Gabriel Sabino de Araújo e Yuri Dinato 
 */
 
 console.clear();
