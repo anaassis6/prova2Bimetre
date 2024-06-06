@@ -5,6 +5,7 @@
 
 Aplicação abaixo recebe 10 números, armazena em um vetor
 e ordene esses 10 números crescente utilizando for
+Nome: Ana Luiza de Assis, Arthur Henrique Pereira Martins, João Gabriel Sabino de Araújo e Yuri Dinato 
 */
 console.clear();
 var teclado = require("prompt-sync")(); //erro 1: esta linha contém um erro pois o código estava "let = require (`Prompt-sync`)();" e deveria estar "const teclado = require (`prompt-sync`)();"
