@@ -3,7 +3,8 @@
 Faça um programa que armazene em um Array
 somente número pares (6 números, é óbvio que temos que 
 verificar se o número é par antes de armazenar 
-no array), no final mostre o Array. oioi
+no array), no final mostre o Array.
+Nome: Ana Luiza de Assis, Arthur Henrique Pereira Martins, João Gabriel Sabino de Araújo e Yuri Dinato 
 */
 const teclado = require(`prompt-sync`)();
 
