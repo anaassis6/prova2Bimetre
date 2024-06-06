@@ -14,7 +14,7 @@ a média desses números (10 pontos)
 - receber o retorno do valor menor
 - receber a média do valor maior e menor
 - exibir o número maior, o número menor e a média
-
+Nome: Ana Luiza de Assis, Arthur Henrique Pereira Martins, João Gabriel Sabino de Araújo e Yuri Dinato 
 */
 const teclado = require (`prompt-sync`)();
 function maior (n1: number, n2: number, n3: number): number{
