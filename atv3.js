@@ -6,6 +6,7 @@
  escreva o número da linha que apresenta o problema.
 
  Aplicação abaixo é uma calculadora que faz uso de função.
+ Nome: Ana Luiza de Assis, Arthur Henrique Pereira Martins, João Gabriel Sabino de Araújo e Yuri Dinato 
 */
 function entrada() {
     var teclado = require("prompt-sync")();
