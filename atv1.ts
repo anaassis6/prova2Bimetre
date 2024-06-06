@@ -13,7 +13,7 @@ Faça um programa que tenha 3 funções:
 - aonde é chamada a função que retorna P ou I
 - nessa função é exibido a mensagem com o valor médio e se o número 
 é par ou impar
-
+Nome: Ana Luiza de Assis, Arthur Henrique Pereira Martins, João Gabriel Sabino de Araújo e Yuri Dinato 
 */
 const teclado = require(`prompt-sync`)();
 
